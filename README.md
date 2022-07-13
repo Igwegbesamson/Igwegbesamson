@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning frontend web development
 - 💞️ I’m looking to collaborate on web development project
-- 📫 you can reach me on +23409152807144
+- 📫 you can reach me on igwegbesam@gmail.com
 
 <!---
 Igwegbesamson/Igwegbesamson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
